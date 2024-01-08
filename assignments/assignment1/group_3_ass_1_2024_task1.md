@@ -22,7 +22,7 @@ Data base managed by the Peruvian Ministry of Health that presents the national 
 I would like to explore availability, resolution capacity and infraestructure of health service establishments within the Río Tambo district in Junin, Peru.
 
 
-# Laura Quequejana Melo
+# Laura Quequejana Melo laura.quequejanam@pucp.edu.pe
 
 ## Database: 
 Monitoring of Investment Projects from Ministry of Economy and Finance - MEF
